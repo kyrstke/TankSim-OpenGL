@@ -148,6 +148,7 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="camera.h" />
     <ClInclude Include="learnopengl\model.h" />
     <ClInclude Include="learnopengl\mesh.h" />
     <ClInclude Include="learnopengl\shader_s.h" />
