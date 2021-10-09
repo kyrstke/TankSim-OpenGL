@@ -41,9 +41,13 @@
     <ClInclude Include="camera.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="vertexShader.glsl" />
     <None Include="fragmentShader.glsl" />
+    <None Include="assimp-vc142-mtd.dll" />
   </ItemGroup>
 </Project>
