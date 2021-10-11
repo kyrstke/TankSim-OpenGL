@@ -2,12 +2,12 @@
   Source.cpp
 C:\Users\kyrst\source\repos\czolgu\czolgu\learnopengl\shader_m.h(44,40): warning C4101: 'e': unreferenced local variable
 C:\Users\kyrst\source\repos\czolgu\czolgu\learnopengl\mesh.h(90,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
-C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(129,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(208,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(209,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(213,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(214,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(216,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(217,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(228,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(141,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(255,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(256,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(260,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(261,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(263,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(264,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kyrst\source\repos\czolgu\czolgu\Source.cpp(275,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
   czolgu.vcxproj -> C:\Users\kyrst\source\repos\czolgu\x64\Debug\tank_sim.exe
